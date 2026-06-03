@@ -46,7 +46,7 @@ html, body {
 
 @font-face {
     font-family: "RushDriver";
-    src: url("../assets/fonts/RushDriver.otf") format("opentype");
+    src: url("RushDriver.otf") format("opentype");
     font-display: swap;
 }
 
